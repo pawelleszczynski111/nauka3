@@ -16,6 +16,11 @@ public class HDDDrive implements Drive {
 //        files.forEach(System.out::println);
         for (File file: files){
             System.out.println(file);
+
+            test
+                    test
+                    test
+
         }
     }
 }
